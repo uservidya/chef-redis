@@ -7,3 +7,4 @@ rvm:
 script:
   - bundle exec rake knife
   - bundle exec rake foodcritic
+build_environment : Ubuntu1304
